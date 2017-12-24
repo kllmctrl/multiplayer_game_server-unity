@@ -1,12 +1,9 @@
-/echo/echo/bin/Debug/
-/echo/echo/obj/
-
-/[Ll]ibrary/
-/[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/Assets/AssetStoreTools*
 /[Dd]ebug/
+/[Bb]in/
+/echo/echo/bin/
+/echo/echo/obj/
 *.exe
 *.mdb
