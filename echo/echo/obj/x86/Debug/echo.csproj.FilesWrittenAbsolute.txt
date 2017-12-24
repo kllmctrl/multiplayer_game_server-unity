@@ -1,0 +1,5 @@
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/echo/echo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/echo/echo/bin/Debug/echo.exe.mdb
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/echo/echo/bin/Debug/echo.exe
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/echo/echo/obj/x86/Debug/echo.exe
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/echo/echo/obj/x86/Debug/echo.exe.mdb
