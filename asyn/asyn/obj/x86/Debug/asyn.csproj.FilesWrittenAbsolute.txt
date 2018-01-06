@@ -1,0 +1,6 @@
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/asyn/asyn/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/asyn/asyn/bin/Debug/asyn.exe.mdb
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/asyn/asyn/bin/Debug/asyn.exe
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/asyn/asyn/obj/x86/Debug/asyn.exe
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/asyn/asyn/obj/x86/Debug/asyn.exe.mdb
+/Users/kc/Work/Tech/Unity/multiplayer_game_server-unity/asyn/asyn/bin/Debug/MySql.Data.dll

@@ -1,8 +1,10 @@
-﻿<Properties StartupItem="echo/echo.csproj">
+﻿<Properties StartupItem="asyn/asyn.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="echo/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="asyn/Serv.cs">
     <Files>
-      <File FileName="echo/Program.cs" Line="11" Column="36" />
+      <File FileName="asyn/Program.cs" Line="14" Column="5" />
+      <File FileName="asyn/Conn.cs" Line="1" Column="1" />
+      <File FileName="asyn/Serv.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
